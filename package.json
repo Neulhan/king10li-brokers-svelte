@@ -1,7 +1,7 @@
 {
   "name": "svelte-app",
   "version": "1.0.0",
-  "homepage": "https://{github-id}.github.io/{repository-name}/",
+  "homepage": "https://neulhan.github.io/king10li-brokers-svelte/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d public",
